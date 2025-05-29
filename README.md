@@ -1,6 +1,6 @@
 ## Basic-mobile-and-web-layout
-## Name : RITHIKA R
-## Reg. no: 212224240136
+## Name : Eesha Ranka
+## Reg. no: 212224240040
 ## AIM:
 a. Apply Gestalt principles to enhance mobile and web layout design.
 # 
